@@ -1,7 +1,7 @@
 Name:		gnome-color-chooser
 Summary:	Customize the appearance of the GNOME desktop
 Version: 	0.2.5
-Release:	%mkrel 1
+Release:	%mkrel 2
 License: 	GPLv3+
 Group:		Graphical desktop/GNOME
 Source0:	%{name}/%{name}-%{version}.tar.bz2
