@@ -52,3 +52,24 @@ drawn by whatever gtk engine you want, etc.
 %_datadir/man/man1/%name.1*
 %_datadir/pixmaps/%name.svg
 
+
+
+%changelog
+* Fri Dec 10 2010 Oden Eriksson <oeriksson@mandriva.com> 0.2.5-2mdv2011.0
++ Revision: 619068
+- the mass rebuild of 2010.0 packages
+
+* Mon Oct 05 2009 Götz Waschk <waschk@mandriva.org> 0.2.5-1mdv2010.0
++ Revision: 453951
+- import gnome-color-chooser
+
+
+* Mon Oct  5 2009 Götz Waschk <waschk@mandriva.org> 0.2.5-1mdv2010.0
+- add docs
+- update license
+- new version
+- fix build deps
+
+* Mon Dec 03 2007 Texstar <texstar@gmail.com> 0.2.3-1pclos2007
+- import into pclos 2007
+
