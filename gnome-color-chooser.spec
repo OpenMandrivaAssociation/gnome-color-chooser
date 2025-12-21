@@ -8,6 +8,11 @@ Source0:	%{name}/%{name}-%{version}.tar.bz2
 Patch:		gnome-color-chooser-0.2.5-desktop-entry.patch
 URL: 		https://sourceforge.net/projects/gnomecc
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:  libgnomeuimm2.6-devel
 BuildRequires:  intltool
 
